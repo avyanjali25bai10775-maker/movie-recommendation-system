@@ -1,14 +1,12 @@
-# 🎬 Movie Recommendation System
-
-# Movie Recommendation System
+# movie-recommendation-system
 
 This project recommends movies based on a user-input movie using NLP and cosine similarity.  
 It uses TMDB dataset for movies, credits, genres, and other metadata.
 
-## 📌 Problem
+##  Problem
 Finding similar movies manually is time-consuming and inefficient.
 
-## 💡 Solution
+##  Solution
 This project uses a content-based filtering approach to recommend movies based on similarity.
 
 ## Features
@@ -25,12 +23,12 @@ This project uses a content-based filtering approach to recommend movies based o
    ```bash
    git clone https://github.com/avyanjali25bai10775-maker/movie-recommendation-system.git
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - Python
 - Pandas
 - Scikit-learn
 
-## 🚀 How to Run
+##  How to Run
 1. Install dependencies:
    pip install pandas scikit-learn
 
@@ -39,13 +37,13 @@ This project uses a content-based filtering approach to recommend movies based o
 
 3. Enter a movie name
 
-## 🧠 Concept Used
+##  Concept Used
 Cosine Similarity
 
-## 📊 Dataset
+##  Dataset
 TMDB Movie Dataset
 
-## 📌 Output
+##  Output
 Recommends top 5 similar movies
 
 ## Example
